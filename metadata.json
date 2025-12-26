@@ -1,0 +1,5 @@
+{
+  "name": "FinanceFlow Expense Tracker",
+  "description": "A high-performance personal finance tracker with real-time analytics, category-based insights, and persistent storage.",
+  "requestFramePermissions": []
+}
